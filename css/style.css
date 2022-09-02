@@ -1,0 +1,54 @@
+.container{
+    display: grid; 
+    justify-content: center;   
+}
+
+.cont{
+    width: 400px;
+    height: 50px;
+    background-color: black;
+    border-radius: 8px;
+}
+.cont1{
+    width: 400px;
+    height: 50px;
+
+}
+#btn1{
+    width: 95px;
+}
+.cont2{
+    width: 400px;
+    height: 50px;
+}
+#btn2{
+    width: 95px;
+}
+.cont3{
+    width: 400px;
+    height: 50px;
+}
+#btn3{
+    width: 95px;
+}
+.cont4{
+    width: 400px;
+    height: 50px;
+}
+
+#btn4{
+    width: 95px;
+}
+
+.cont5{
+    width: 400px;
+    height: 50px;
+}
+
+#btn5{
+    width: 95px;
+}
+
+#btn{
+    width: 190px;
+}
